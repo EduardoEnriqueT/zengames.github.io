@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan&display=swap');
+
+*{
+    font-family: 'League Spartan', sans-serif;
+}
+.dropdown-menu.show {
+    display: flex;
+    width: 420px;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+    background-color: #0b0b0bf0;
+    border: none;
+    color: white;
+
+  }
+  
+  .dropdown-item {
+    width: 33,33%;
+  }
+
+  h5{
+    font-size: x-large;
+    text-decoration: underline ;
+    text-decoration-color: rgb(79, 79, 79) !important;
+  }
+
+.others {
+    width: 220px !important;
+}
+
+.row{
+    text-align: initial !important;
+}
+
+
+.collapse {
+    visibility: visible !important;
+}
+
+.bg-dark{
+    background-color: #0b0b0b !important;
+    border: none !important;
+}
+
+h1{
+    font-size: xx-large !important;
+}
+
+.dropdown-item{
+    color: white;
+}
+
+.aboutus{
+    background-color: #0b0b0b;
+}
+
+.title-us{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}
+
+.parr-us{
+    width: 72rem;
+    color: white;
+    text-align: center;
+    align-content: center;
+    text-align:center;
+    margin-left: 23rem;
+    margin-top: 4rem;
+    padding-bottom: 10rem;
+
+}
+
+p{
+    text-align: center;
+    margin-bottom: 10rem;
+}
+
+.feature{
+    background-color: #0b0b0b;
+    color: white;
+    align-items: center;
+}
+
+.title-games{
+    padding: 2rem;
+    text-align: center;
+    padding-top: 7rem;
+}
+
+.col-img{
+    padding-top: 5rem;
+    text-align: center;
+}
+
+img{
+    width: 18rem;
+}
+
+.row-img{
+    margin-top: -3rem;
+    padding-bottom: 7rem;
+    padding-right: 13rem;
+    padding-left: 13rem;
+}
+
+table{
+    width: 64rem !important;
+    margin-left: 29rem;
+    margin-top: 5rem;
+    font-size: xx-large;
+    margin-bottom: 10rem !important;
+}
+
+.contact{
+    background-color: #0b0b0b;
+    padding-bottom: 10rem;
+}
+
+.info{
+    width: 59rem;
+    margin-left: 31rem !important;
+    color: white;
+    margin-top: -2rem;
+    font-size: 1.2rem;
+    padding-bottom: 5rem;
+}
